@@ -20,38 +20,38 @@ It demonstrates real-world e-commerce workflows such as product management, auth
 ⚙️ Key Features
 👥 User Module:
 
-User registration and login (with email verification)
+- User registration and login (with email verification)
 
-Product browsing and search functionality
+- Product browsing and search functionality
 
-Add to cart, wishlist, and checkout system
+- Add to cart, wishlist, and checkout system
 
-Order history and tracking
+- Order history and tracking
 
-User profile management and address book
+- User profile management and address book
 
 🛒 Seller/Admin Module:
 
 Secure seller login
 
-Product add/edit/delete features
+- Product add/edit/delete features
 
-Order management and sales dashboard
+- Order management and sales dashboard
 
-Inventory and stock control
+- Inventory and stock control
 
-Manage discounts, offers, and product categories
+- Manage discounts, offers, and product categories
 
 🌐 Other Features:
 
-Responsive UI with Bootstrap
+- Responsive UI with Bootstrap
 
-Integrated PostgreSQL database
+- Integrated PostgreSQL database
 
-Django ORM for data handling
+- Django ORM for data handling
 
-Payment gateway integration (if added)
+- Payment gateway integration (if added)
 
-Admin dashboard for full control over the site
+- Admin dashboard for full control over the site
 
-SEO-friendly and scalable structure
+- SEO-friendly and scalable structure
