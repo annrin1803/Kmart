@@ -1,11 +1,17 @@
 # Kmart
 Tech Stack
 Component	Technology
+
 Frontend	HTML5, CSS3, Bootstrap, JavaScript
+
 Backend	Python, Django Framework
+
 Database	PostgreSQL
+
 Authentication	Django Authentication System
+
 Deployment (optional)	Render / Heroku / AWS / PythonAnywhere
+
 About the Project:
 
 The project is designed to replicate the core functionalities of modern online shopping platforms.
